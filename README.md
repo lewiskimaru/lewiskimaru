@@ -1,4 +1,4 @@
-# 👨‍🚀 Lewis Kamau Kimaru
+#Lewis Kamau Kimaru
 
 > *"You can do anything"*
 
@@ -7,7 +7,7 @@
 
 ## 🛰️ Mission Control
 
-Tech entrepreneur on a mission to power the next generation of technology across Africa. Currently commanding **Atomio Technologies**, where we build AI-powered web and software solutions that solve real problems.
+Tech entrepreneur on a mission to power the next generation of technology across Africa. Currently commanding **Atomio Technologies**, where we build AI-powered web and software solutions that solve real problems for businesses and the world.
 
 ## 🚀 Projects in Orbit
 
