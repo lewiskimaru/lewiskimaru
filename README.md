@@ -1,13 +1,11 @@
 # **LEWIS KAMAU KIMARU**
 
-## **Building the Future. Today.**
-
 Tech entrepreneur accelerating innovation across Africa through AI and autonomous systems.
 
 ---
 
 ### **ATOMIO TECHNOLOGIES**
-# *Innovation without Limits*
+# *Empowering Businesses*
 
 **[atomio.tech](https://atomio.tech)**
 
