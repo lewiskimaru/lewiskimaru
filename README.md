@@ -5,7 +5,7 @@ Tech entrepreneur accelerating innovation across Africa through AI and autonomou
 ---
 
 ### **ATOMIO TECHNOLOGIES**
-# *Empowering Businesses*
+# *Software that makes your Work Easier*
 
 **[atomio.tech](https://atomio.tech)**
 
